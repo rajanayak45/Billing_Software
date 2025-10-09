@@ -2,7 +2,9 @@
 📌 Project Overview
 
 Billing Software is a Java-based billing management system designed to simplify and automate billing operations. 
+
 • Implemented role-based login with secure admin and user accounts using Spring Security.
+
 • Created backend APIs for Category, Item, Order, and Dashboard modules (Spring Boot) and responsive frontend
 (React + Bootstrap).
 • Designed dashboard, explore, order history, and billing modules with cart functionality and search/filter options.
