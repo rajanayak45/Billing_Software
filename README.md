@@ -7,9 +7,13 @@ Billing Software is a Java-based billing management system designed to simplify 
 
 • Created backend APIs for Category, Item, Order, and Dashboard modules (Spring Boot) and responsive frontend
 (React + Bootstrap).
+
 • Designed dashboard, explore, order history, and billing modules with cart functionality and search/filter options.
+
 • Integrated Razorpay payment gateway for UPI and cash payments with real-time order verification.
+
 • Enabled CRUD operations for items, categories, and users, along with local image storage.
+
 • Generated printable receipts and maintained order history with detailed customer, payment, and item
 information.
 
